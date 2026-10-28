@@ -1,0 +1,9 @@
+# Install PyTorch FIRST, from pytorch.org (pick ROCm for AMD on Linux, or CPU).
+# torch
+# torchvision
+numpy
+pillow
+opencv-python
+scenedetect[opencv]
+open_clip_torch
+tqdm

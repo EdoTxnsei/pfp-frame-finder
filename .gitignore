@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Generated data (indexes, search results, exports)
+idx/
+out/
+*_idx/
+
+# Videos and big media (never commit these)
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+*.zip
+
+# Model cache / editor / OS
+.cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
